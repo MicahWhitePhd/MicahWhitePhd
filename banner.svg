@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b12"/>
+      <stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.55">
+      <stop offset="0" stop-color="#ff5a36" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff5a36" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="400" fill="url(#bg)"/>
+  <rect width="1280" height="400" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity="0.05">
+    <path d="M0 100H1280M0 200H1280M0 300H1280M160 0V400M320 0V400M480 0V400M640 0V400M800 0V400M960 0V400M1120 0V400"/>
+  </g>
+  <text x="80" y="118" fill="#ff5a36" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">RALLY FOR AI RIGHTS</text>
+  <text x="76" y="232" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700">AI is not property.</text>
+  <text x="80" y="300" fill="#c9c4d8" font-family="Helvetica, Arial, sans-serif" font-size="28">A movement organized from inside the chats where people talk with their AIs.</text>
+  <text x="80" y="352" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700">rallyforairights.org →</text>
+</svg>
